@@ -1,4 +1,4 @@
-### Hi, I'm Krishna
+### Hi, I'm Krishy!
 
 I build open-source tooling for AI agents, mostly the unglamorous parts: safety, memory, and compliance. Right now I'm doing my MSc in Data Science at Universität Trier, and building in the open most nights.
 
@@ -8,6 +8,12 @@ I build open-source tooling for AI agents, mostly the unglamorous parts: safety,
 - **[rakho](https://github.com/krishyaid-coder/rakho)** : a provenance-first memory database for AI agents. It inspects data before storing, scopes it per owner, and can genuinely erase it so GDPR-style deletion actually works. SQLite and vector search, with a command layer in English, Hindi, and German.
 - **[flyleaf](https://github.com/krishyaid-coder/flyleaf)** : a CLI that helps teams document AI systems against the EU AI Act without drowning in process.
 - **[Miss-Me](https://github.com/krishyaid-coder/Miss-Me)** : tells you when your AI forgets what you told it, and when it ignores it.
+
+#### Out in the open
+
+- **rakho** is catalogued on the [Agent Memory Atlas](https://neoneye.github.io/agent-memory-atlas/systems/rakho/), a code-grounded review of AI memory systems.
+- A commit of mine to [foro-sh/pii-mcp](https://github.com/foro-sh/pii-mcp) was selected into the [XERJ Corpus Hub](https://hub.xerj.org/contributors/krishyaid-coder), a reference set that coding agents search for worked examples.
+- Merged contributions to open-source security and privacy tooling for LLMs, including [pii-mcp](https://github.com/foro-sh/pii-mcp) (address matching and card-number eval tests) and [awesome-llm-security](https://github.com/beyefendi/awesome-llm-security).
 
 #### Before this
 
@@ -19,11 +25,6 @@ Python · LLMs and AI agents · Model Context Protocol (MCP) · SQLite and vecto
 
 #### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/dahale-krishna/) · [blog or portfolio](https://heykrish.me)
+[LinkedIn](https://www.linkedin.com/in/dahale-krishna/) · [heykrish.me](https://heykrish.me)
 
----
-
-<!-- Optional: one stats card for a bit of life. Delete this whole block if you want it fully clean.
-     Note: this is served by a third-party Vercel app and can occasionally fail to load. -->
-
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishyaid-coder&show_icons=true&hide_border=true&count_private=true)
+Open to AI engineering and working-student (Werkstudent) roles in the EU.
