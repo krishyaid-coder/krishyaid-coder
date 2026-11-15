@@ -4,10 +4,10 @@ I build open-source tooling for AI agents, mostly the unglamorous parts: safety,
 
 #### What I'm building
 
-- **[sluice](https://github.com/krishyaid-coder/sluice)** — a local MCP security gate that catches secrets and personal data before an agent stores or reuses them, and tracks sensitive values across a session. On PyPI as `sluice-taint`.
-- **[rakho](https://github.com/krishyaid-coder/rakho)** — a provenance-first memory database for AI agents. It inspects data before storing, scopes it per owner, and can genuinely erase it so GDPR-style deletion actually works. SQLite and vector search, with a command layer in English, Hindi, and German.
-- **[flyleaf](https://github.com/krishyaid-coder/flyleaf)** — a CLI that helps teams document AI systems against the EU AI Act without drowning in process.
-- **[Miss-Me](https://github.com/krishyaid-coder/Miss-Me)** — tells you when your AI forgets what you told it, and when it ignores it.
+- **[sluice](https://github.com/krishyaid-coder/sluice)** : a local MCP security gate that catches secrets and personal data before an agent stores or reuses them, and tracks sensitive values across a session. On PyPI as `sluice-taint`.
+- **[rakho](https://github.com/krishyaid-coder/rakho)** : a provenance-first memory database for AI agents. It inspects data before storing, scopes it per owner, and can genuinely erase it so GDPR-style deletion actually works. SQLite and vector search, with a command layer in English, Hindi, and German.
+- **[flyleaf](https://github.com/krishyaid-coder/flyleaf)** : a CLI that helps teams document AI systems against the EU AI Act without drowning in process.
+- **[Miss-Me](https://github.com/krishyaid-coder/Miss-Me)** : tells you when your AI forgets what you told it, and when it ignores it.
 
 #### Before this
 
